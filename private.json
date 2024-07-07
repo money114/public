@@ -7,8 +7,6 @@
 				"url": "http://192.168.2.8:5050/tptv_proxy.m3u",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
-				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"name": "中国移动iTV",
@@ -16,8 +14,6 @@
 				"url": "http://192.168.2.8:5050/itv_proxy.m3u",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
-				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"name": "央视频",
@@ -25,8 +21,6 @@
 				"url": "http://192.168.2.8:5050/ysp.m3u",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
-				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"name": "四季線上4GTV",
@@ -34,16 +28,13 @@
 				"url": "http://192.168.2.8:5050/4gtv.m3u",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
-				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"name": "Beesport",
 				"type": 0,
 				"playerType": 1,
+				"ua": "okhttp/3.15",
 				"url": "http://192.168.2.8:5050/beesport.m3u",
-				"epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
 			{
 				"name": "MytvSuper",
@@ -51,8 +42,6 @@
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"url": "http://192.168.2.8:5050/mytvsuper.m3u",
-				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "https://epg.112114.xyz/logo/{name}.png",
 			},
 			{
 				"name": "O11-drm",
@@ -63,15 +52,22 @@
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "https://epg.112114.xyz/logo/{name}.png",
 			},
+				{
+				"name": "YanG-1989MYTV",
+				"type": 1,
+				"playerType": 1,
+				"ua": "okhttp/3.15",
+				"url": "http://192.168.2.8:5050/MYTV.m3u",
+			},
 			{
-				"name": "O11-drm",
+				"name": "YanG-1989A1",
 				"type": 1,
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"url": "http://192.168.2.8:5050/Adult.m3u",
 			},
 			{
-				"name": "O11-drm",
+				"name": "YanG-1989A2",
 				"type": 1,
 				"playerType": 1,
 				"ua": "okhttp/3.15",
