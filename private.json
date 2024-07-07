@@ -64,6 +64,20 @@
 				"logo": "https://epg.112114.xyz/logo/{name}.png",
 			},
 			{
+				"name": "O11-drm",
+				"type": 1,
+				"playerType": 1,
+				"ua": "okhttp/3.15",
+				"url": "http://192.168.2.8:5050/Adult.m3u",
+			},
+			{
+				"name": "O11-drm",
+				"type": 1,
+				"playerType": 1,
+				"ua": "okhttp/3.15",
+				"url": "http://192.168.2.8:5050/A.m3u",
+			},
+			{
 				"group":"redirect",
 				"channels":[
 					{
