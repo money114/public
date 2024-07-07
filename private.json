@@ -6,41 +6,41 @@
 				"type": 0,
 				"url": "http://192.168.2.8:5050/tptv_proxy.m3u",
 				"playerType": 1,
-				"ua": "okhttp/3.15",
+				"ua": "okhttp/3.15"
 			},
 			{
 				"name": "中国移动iTV",
 				"type": 0,
 				"url": "http://192.168.2.8:5050/itv_proxy.m3u",
 				"playerType": 1,
-				"ua": "okhttp/3.15",
+				"ua": "okhttp/3.15"
 			},
 			{
 				"name": "央视频",
 				"type": 0,
 				"url": "http://192.168.2.8:5050/ysp.m3u",
 				"playerType": 1,
-				"ua": "okhttp/3.15",
+				"ua": "okhttp/3.15"
 			},
 			{
 				"name": "四季線上4GTV",
 				"type": 0,
 				"url": "http://192.168.2.8:5050/4gtv.m3u",
 				"playerType": 1,
-				"ua": "okhttp/3.15",
+				"ua": "okhttp/3.15"
 			},
 			{
 				"name": "Beesport",
 				"type": 0,
 				"playerType": 1,
-				"ua": "okhttp/3.15",
 				"url": "http://192.168.2.8:5050/beesport.m3u",
+				"ua": "okhttp/3.15"
 			},
 			{
 				"name": "MytvSuper",
 				"type": 0,
 				"playerType": 1,
-				"ua": "okhttp/3.15",
+				"ua": "okhttp/3.15"
 				"url": "http://192.168.2.8:5050/mytvsuper.m3u",
 			},
 			{
@@ -50,28 +50,28 @@
 				"ua": "okhttp/3.15",
 				"url": "http://192.168.2.8:5050/playlist.m3u",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "https://epg.112114.xyz/logo/{name}.png",
+				"logo": "https://epg.112114.xyz/logo/{name}.png"
 			},
 				{
 				"name": "YanG-1989MYTV",
 				"type": 1,
 				"playerType": 1,
 				"ua": "okhttp/3.15",
-				"url": "http://192.168.2.8:5050/MYTV.m3u",
+				"url": "http://192.168.2.8:5050/MYTV.m3u"
 			},
 			{
 				"name": "YanG-1989A1",
 				"type": 1,
 				"playerType": 1,
 				"ua": "okhttp/3.15",
-				"url": "http://192.168.2.8:5050/Adult.m3u",
+				"url": "http://192.168.2.8:5050/Adult.m3u"
 			},
 			{
 				"name": "YanG-1989A2",
 				"type": 1,
 				"playerType": 1,
 				"ua": "okhttp/3.15",
-				"url": "http://192.168.2.8:5050/A.m3u",
+				"url": "http://192.168.2.8:5050/A.m3u"
 			},
 			{
 				"group":"redirect",
