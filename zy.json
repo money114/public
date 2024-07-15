@@ -1,0 +1,164 @@
+{
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
+"lives":[
+		{
+			"name": "江苏移动TPTV",
+			"type": 0,
+			"playerType": 1,
+			"url": "http://192.168.2.7:5050/tptv_proxy.m3u"
+		},
+		{
+			"name": "中国移动iTV",
+			"type": 0,
+			"playerType": 1,
+			"url": "http://192.168.2.7:5050/itv_proxy.m3u"
+		},
+		{
+			"name": "蜀小果",
+			"type": 0,
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"url": "http://192.168.2.7:5050/sxg.m3u"
+		},
+		{
+			"name": "fanmingming",
+			"type": 0,
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+		},
+		{
+			"name": "央视频",
+			"type": 0,
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"url": "http://192.168.2.7:5050/ysp.m3u"
+		},
+		{
+			"name": "四季線上4GTV",
+			"type": 0,
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"url": "http://192.168.2.7:5050/4gtv.m3u"
+		},
+		{
+			"name": "Beesport",
+			"type": 0,
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"url": "http://192.168.2.7:5050/beesport.m3u"
+		},
+		{
+			"name": "MytvSuper",
+			"type": 0,
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"url": "http://192.168.2.7:5050/mytvsuper.m3u"
+		},
+		{
+			"name": "stream-link",
+			"type": 0,
+			"playerType": 1,
+			"url": "https://www.stream-link.org/stream-link.m3u"
+		},
+		{
+			"name": "O11-drm",
+			"type": 0,
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"url": "http://192.168.2.7:5050/playlist.m3u",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "YanG-1989",
+			"type": 0,
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"url": "https://tv.iill.top//m3u/Gather"
+		},
+		{
+			"name": "YanG-1989MYTV",
+			"type": 0,
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"url": "https://yang-1989.eu.org/m3u/MyTV"
+		},
+		{
+			"name": "YanG-1989A1",
+			"type": 0,
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"url": "https://yang-1989.eu.org/m3u/Adult"
+		},
+		{
+			"name": "YanG-1989A2",
+			"type": 0,
+			"playerType": 1,
+			"ua": "okhttp/3.15",
+			"url": "http://192.168.2.7:5050/A.m3u"
+		}
+	],
+  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+  "sites": [
+    {
+      "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjc6NDU2NyIsInRva2VuIjoiIn0=",
+      "filterable": 1,
+      "quickSearch": 1,
+      "name": "丫仙女",
+      "changeable": 0,
+      "jar": "http://192.168.2.7:4567/spring.jar",
+      "api": "csp_XiaoYa",
+      "type": 3,
+      "key": "csp_XiaoYa",
+      "searchable": 1
+    },
+    {
+      "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjc6NDU2NyIsInRva2VuIjoiIn0=",
+      "filterable": 1,
+      "quickSearch": 1,
+      "name": "AList",
+      "changeable": 0,
+      "jar": "http://192.168.2.7:4567/spring.jar",
+      "api": "csp_AList",
+      "type": 3,
+      "key": "csp_AList",
+      "searchable": 1
+    },
+    {
+      "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjc6NDU2NyIsInRva2VuIjoiIn0=",
+      "filterable": 1,
+      "quickSearch": 1,
+      "name": "BiliBili",
+      "changeable": 0,
+      "jar": "http://192.168.2.7:4567/spring.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "api": "csp_BiliBili",
+      "type": 3,
+      "key": "csp_BiliBili",
+      "searchable": 1
+    },
+    {
+      "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjc6NDU2NyIsInRva2VuIjoiIn0=",
+      "filterable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "name": "YouTube",
+      "changeable": 0,
+      "jar": "http://192.168.2.7:4567/spring.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "api": "csp_Youtube",
+      "type": 3,
+      "key": "csp_Youtube",
+      "searchable": 1
+    }
+ ],
+  "spider": "http://192.168.2.7:4567/tvbox/libs/xiaoya_proxy.jar;md5;002b8cd2c4cf0ae15a5c0b8cb14a9fde"
+}
