@@ -76,21 +76,21 @@
 			"type": 0,
 			"playerType": 1,
 			"ua": "okhttp/3.15",
-			"url": "https://tv.iill.top//m3u/Gather"
+			"url": "https://tv.iill.top/m3u/Gather"
 		},
 		{
 			"name": "YanG-1989MYTV",
 			"type": 0,
 			"playerType": 1,
 			"ua": "okhttp/3.15",
-			"url": "https://yang-1989.eu.org/m3u/MyTV"
+			"url": "https://tv.iill.top/m3u/MyTV"
 		},
 		{
 			"name": "YanG-1989A1",
 			"type": 0,
 			"playerType": 1,
 			"ua": "okhttp/3.15",
-			"url": "https://yang-1989.eu.org/m3u/Adult"
+			"url": "https://tv.iill.top/m3u/Adult"
 		},
 		{
 			"name": "YanG-1989A2",
