@@ -63,10 +63,22 @@
 			"url": "https://www.stream-link.org/stream-link.m3u"
 		},
 		{
-			"name": "Tvb_Super",
+			"name": "M3U-Tvb",
 			"type": 0,
 			"playerType": 1,
-			"url": "https://www.dussl.icu/dussl.m3u"
+			"url": "https://www.dussl.icu/Tvb_dussl.m3u"
+		},
+		{
+			"name": "M3U-Tw",
+			"type": 0,
+			"playerType": 1,
+			"url": "https://www.dussl.icu/Tw_dussl.m3u"
+		},
+		{
+			"name": "M3U-Anbo",
+			"type": 0,
+			"playerType": 1,
+			"url": "https://www.dussl.icu/Anbo_dussl.m3u"
 		},
 		{
 			"name": "O11-drm",
