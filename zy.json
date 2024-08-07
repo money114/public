@@ -1,49 +1,52 @@
 {
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-"lives":[
+	"lives":[
 			{
 				"name": "streamshield-proxy",
-				"type": 0,
-				"playerType": 1,
 				"url": "http://192.168.2.7:5052/cao"
 			},
 			{
 				"name": "fanmingming",
-				"type": 0,
-				"playerType": 1,
-				"url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-				"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+				"url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
+			},
+			{
+				"name": "youshandefeiyang-tv",
+				"url": "http://192.168.2.7:5053/tv.m3u"
+			},
+			{
+				"name": "youshandefeiyang-huya",
+				"url": "http://192.168.2.7:5053/huyayqk.m3u?url=http://192.168.2.7:5053"
+			},
+			{
+				"name": "youshandefeiyang-douyu",
+				"url": "http://192.168.2.7:5053/douyuyqk.m3u?url=http://192.168.2.7:5053"
+			},
+			{
+				"name": "youshandefeiyang-yy",
+				"url": "http://192.168.2.7:5053/yylunbo.m3u?url=http://192.168.2.7:5053"
+			},
+			{
+				"name": "youshandefeiyang-bilibili",
+				"url": "http://192.168.2.7:5053/bililive.m3u?url=http://192.168.2.7:5053"
 			},
 			{
 				"name": "stream-link",
-				"type": 0,
-				"playerType": 1,
 				"url": "https://www.stream-link.org/stream-link.m3u"
 			},
 			{
 				"name": "O11-drm",
-				"type": 0,
-				"playerType": 1,
-				"url": "http://192.168.2.7:5050/playlist.m3u",
-				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "https://epg.112114.xyz/logo/{name}.png"
+				"url": "http://192.168.2.7:5050/playlist.m3u"
 			},
 			{
 				"name": "YanG-1989",
-				"type": 0,
-				"playerType": 1,
 				"url": "https://tv.iill.top/m3u/Gather"
 			},
 			{
 				"name": "YanG-1989A1",
-				"type": 0,
-				"playerType": 1,
 				"url": "https://tv.iill.top/m3u/Adult"
 			},
 			{
 				"name": "YanG-1989A2",
-				"type": 0,
-				"playerType": 1,
 				"url": "http://192.168.2.7:5050/A.m3u"
 			}
 	],
