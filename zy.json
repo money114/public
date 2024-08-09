@@ -3,50 +3,62 @@
 	"lives":[
 			{
 				"name": "streamshield-proxy",
+				"type":0,
 				"url": "http://192.168.2.7:5052/cao"
 			},
 			{
 				"name": "fanmingming",
+				"type":0,
 				"url": "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
 			},
 			{
 				"name": "youshandefeiyang-tv",
+				"type":0,
 				"url": "http://192.168.2.7:5053/tv.m3u"
 			},
 			{
 				"name": "youshandefeiyang-huya",
+				"type":0,
 				"url": "http://192.168.2.7:5053/huyayqk.m3u?url=http://192.168.2.7:5053"
 			},
 			{
 				"name": "youshandefeiyang-douyu",
+				"type":0,
 				"url": "http://192.168.2.7:5053/douyuyqk.m3u?url=http://192.168.2.7:5053"
 			},
 			{
 				"name": "youshandefeiyang-yy",
+				"type":0,
 				"url": "http://192.168.2.7:5053/yylunbo.m3u?url=http://192.168.2.7:5053"
 			},
 			{
 				"name": "youshandefeiyang-bilibili",
+				"type":0,
 				"url": "http://192.168.2.7:5053/bililive.m3u?url=http://192.168.2.7:5053"
 			},
 			{
 				"name": "stream-link",
+				"type":0,
 				"url": "https://www.stream-link.org/stream-link.m3u"
 			},
 			{
 				"name": "O11-drm",
+				"type":0,
 				"url": "http://192.168.2.7:5050/playlist.m3u"
 			},
 			{
 				"name": "YanG-1989",
+				"type":0,
 				"url": "https://tv.iill.top/m3u/Gather"
 			},
 			{
 				"name": "YanG-1989A1",
+				"type":0,
 				"url": "https://tv.iill.top/m3u/Adult"
 			},
 			{
 				"name": "YanG-1989A2",
+				"type":0,
 				"url": "http://192.168.2.7:5050/A.m3u"
 			}
 	],
