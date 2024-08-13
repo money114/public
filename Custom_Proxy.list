@@ -1,0 +1,30 @@
+# 台湾
+DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
+
+# 香港
+DOMAIN-SUFFIX,edgeware.tvb.com
+DOMAIN-SUFFIX,bigbigchannel.com
+DOMAIN-SUFFIX,bigbigshop.com
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
+DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,tvb.com.au
+DOMAIN-SUFFIX,tvbanywhere.com
+DOMAIN-SUFFIX,tvbanywhere.com.sg
+DOMAIN-SUFFIX,tvbc.com.cn
+DOMAIN-SUFFIX,tvbeventpower.com.hk
+DOMAIN-SUFFIX,tvbusa.com
+DOMAIN-SUFFIX,tvbweekly.com
+DOMAIN-SUFFIX,tvmedia.net.au
+
+# 海外
+DOMAIN-SUFFIX,content.jwplatform.com
+DOMAIN-SUFFIX,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,thetvapp.to
