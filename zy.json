@@ -39,17 +39,26 @@
 			{
 				"name": "stream-link",
 				"type":0,
-				"url": "https://www.stream-link.org/stream-link.m3u"
+				"url": "https://www.stream-link.org/stream-link.m3u",
+				"epg":"http://192.168.2.7:5057/epg?ch={name}&date={date}"
+			},
+			{
+				"name": "Samsung TV Plus for Channels",
+				"type":0,
+				"url": "http://192.168.2.7:5055/playlist.m3u8",
+				"epg":"http://192.168.2.7:5057/epg?ch={name}&date={date}"
 			},
 			{
 				"name": "O11-drm",
 				"type":0,
-				"url": "http://192.168.2.7:5050/playlist.m3u"
+				"url": "http://192.168.2.7:5050/playlist.m3u",
+				"epg":"http://192.168.2.7:5057/epg?ch={name}&date={date}"
 			},
 			{
 				"name": "YanG-1989",
 				"type":0,
-				"url": "https://tv.iill.top/m3u/Gather"
+				"url": "https://tv.iill.top/m3u/Gather",
+				"epg":"http://192.168.2.7:5057/epg?ch={name}&date={date}"
 			},
 			{
 				"name": "YanG-1989A1",
@@ -120,7 +129,19 @@
       "type": 3,
       "key": "csp_Youtube",
       "searchable": 1
+    },
+    {
+      "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4yLjc6NDU2NyIsInRva2VuIjoiIn0=",
+      "filterable": 1,
+      "quickSearch": 1,
+      "name": "Emby",
+      "changeable": 0,
+      "jar": "http://192.168.2.7:4567/spring.jar",
+      "api": "csp_Emby",
+      "type": 3,
+      "key": "csp_Emby",
+      "searchable": 1
     }
  ],
-  "spider": "http://192.168.2.7:4567/tvbox/libs/xiaoya_proxy.jar;md5;002b8cd2c4cf0ae15a5c0b8cb14a9fde"
+  "spider":"http://192.168.2.7:4567/tvbox/libs/xiaoya_proxy.jar;md5;00c03fd4718bee7cb6cb2f8d8df7c3fd"
 }
