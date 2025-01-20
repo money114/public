@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,bitgamer.ch
 DOMAIN-SUFFIX,weesunday.com
 DOMAIN-SUFFIX,thetvapp.to
 DOMAIN-KEYWORD,missav
+IP-CIDR,88.212.7.11/32,no-resolve
