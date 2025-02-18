@@ -1,4 +1,6 @@
-[
+{
+    "spider": "https://github.com/FongMi/CatVodSpider/raw/refs/heads/main/jar/custom_spider.jar",
+    "sites": [
     {
             "key": "p站",
             "name": "🔞p站",
@@ -9,4 +11,5 @@
             "filterable": 0,
             "changeable": 0     
     }
+            ]
 ]
