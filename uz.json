@@ -1,10 +1,12 @@
 [
     {
-        "name": "p站",
-        "api": "https://raw.githubusercontent.com/money114/public/refs/heads/main/py/porn.js",
-        "webSite": "https://cn.pornhub.com",
-        "remark": "",
-        "version": "",
-        "type": 100
+            "key": "p站",
+            "name": "🔞p站",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/money114/public/refs/heads/main/py/porn.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0     
     }
 ]
