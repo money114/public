@@ -3,8 +3,7 @@
         {
             "name": "itv",
             "type": 0,
-            "url": "http://192.168.2.7:4567/files/itv.txt",
-            "ua": "okhttp/3.15",
+            "url": "http://192.168.2.7:4567/files/itv.txt"
             "catchup": {
                 "type": "append",
                 "replace": "livemode=1,livemode=4"
