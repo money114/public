@@ -1,17 +1,10 @@
-# 海外
-DOMAIN-SUFFIX,happymh.com
-DOMAIN-SUFFIX,hihimanga.com
+# tv
 DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,livednow.org
 DOMAIN-SUFFIX,wx.sb
-DOMAIN-SUFFIX,zfj.me
-DOMAIN-SUFFIX,doube.eu.org
 DOMAIN-SUFFIX,tv6868.com
 DOMAIN-SUFFIX,web6868.com
-DOMAIN-SUFFIX,synocommunity.com
 DOMAIN-SUFFIX,mjh.nz
-DOMAIN-SUFFIX,jellyfin.org
-DOMAIN-SUFFIX,bitgamer.ch
 DOMAIN-SUFFIX,weesunday.com
 DOMAIN-SUFFIX,thetvapp.to
 DOMAIN-SUFFIX,streamlock.net
@@ -23,6 +16,15 @@ DOMAIN-SUFFIX,cdn.com.mp
 DOMAIN-SUFFIX,cdn5.zone.id
 DOMAIN-SUFFIX,cdn6.zone.id
 DOMAIN-SUFFIX,cdn8.zone.id
+
+# 海外
+DOMAIN-SUFFIX,happymh.com
+DOMAIN-SUFFIX,hihimanga.com
+DOMAIN-SUFFIX,zfj.me
+DOMAIN-SUFFIX,doube.eu.org
+DOMAIN-SUFFIX,synocommunity.com
+DOMAIN-SUFFIX,jellyfin.org
+DOMAIN-SUFFIX,bitgamer.ch
 DOMAIN-SUFFIX,0o0.myfw.us
 DOMAIN-SUFFIX,1789.dpdns.org
 DOMAIN-SUFFIX,yysb19.fun
