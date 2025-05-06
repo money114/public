@@ -6,7 +6,8 @@
             "url": "http://192.168.2.7:4567/files/itv.txt",
             "catchup": {
                 "type": "append",
-                "replace": "livemode=1,livemode=4"
+                "replace": "livemode=1,livemode=4",
+                "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
             }
         },
         {
