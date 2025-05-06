@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,cdn.com.mp
 DOMAIN-SUFFIX,cdn5.zone.id
 DOMAIN-SUFFIX,cdn6.zone.id
 DOMAIN-SUFFIX,cdn8.zone.id
+DOMAIN-SUFFIX,1789.dpdns.org
 
 # 海外
 DOMAIN-SUFFIX,happymh.com
@@ -26,7 +27,6 @@ DOMAIN-SUFFIX,synocommunity.com
 DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,bitgamer.ch
 DOMAIN-SUFFIX,0o0.myfw.us
-DOMAIN-SUFFIX,1789.dpdns.org
 DOMAIN-SUFFIX,yysb19.fun
 DOMAIN-SUFFIX,jibada5.xyz
 DOMAIN-SUFFIX,xojav.tv
