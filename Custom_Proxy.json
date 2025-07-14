@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "livednow.com",
+        "livednow.org",
+        "wx.sb",
+        "tv6868.com",
+        "web6868.com",
+        "mjh.nz",
+        "weesunday.com",
+        "thetvapp.to",
+        "streamlock.net",
+        "aktv.space",
+        "m16tv.cfd",
+        "jdshipin.com",
+        "163.dedyn.io",
+        "cdn.com.mp",
+        "cdn5.zone.id",
+        "cdn6.zone.id",
+        "cdn8.zone.id",
+        "dpdns.org",
+        "vpstv.net",
+        "iill.top",
+        "happymh.com",
+        "hihimanga.com",
+        "zfj.me",
+        "doube.eu.org",
+        "synocommunity.com",
+        "jellyfin.org",
+        "bitgamer.ch",
+        "cdn.jsdelivr.net",
+        "123av.com",
+        "0o0.myfw.us",
+        "yysb19.fun",
+        "jibada5.xyz",
+        "xojav.tv",
+        "apilj.com",
+        "shayuapi.com",
+        "51cg.fun",
+        "keeflys.com",
+        "cshjc.net"
+      ],
+      "domain_keyword": [
+        "mypikpak",
+        "duboku",
+        "hongkongdollvideo",
+        "missav"
+      ]
+    }
+  ]
+}
