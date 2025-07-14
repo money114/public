@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bigbigchannel.com.hk",
+        "bigbigshop.com",
+        "content.jwplatform.com",
+        "encoretvb.com",
+        "mytvsuper.com",
+        "mytvsuperlimited.hb.omtrdc.net",
+        "mytvsuperlimited.sc.omtrdc.net",
+        "tvb.com",
+        "tvb.com.au",
+        "tvbanywhere.com",
+        "tvbanywhere.com.sg",
+        "tvbc.com.cn",
+        "tvbeventpower.com.hk",
+        "tvbusa.com",
+        "tvbweekly.com",
+        "tvmedia.net.au",
+        "videos-f.jwpsrv.com",
+        "nowe.com",
+        "nowestatic.com",
+        "viu.tv",
+        "viu.com",
+        "viu.now.com",
+        "nowe.com",
+        "gvt1.com",
+        "gvt2.com",
+        "gvt3.com",
+        "amazonaws.com",
+        "gstatic.com",
+        "firebaseio.com",
+        "jwplayer.com",
+        "cloudfront.net"
+      ],
+    }
+  ]
+}
