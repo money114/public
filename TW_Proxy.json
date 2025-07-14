@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "acg.tv",
+        "acgvideo.com",
+        "bstarstatic.com",
+        "bigfun.cn",
+        "biliapi.com",
+        "biliapi.net",
+        "bilibili.com",
+        "bilibili.tv",
+        "bilibiligame.net",
+        "biligame.com",
+        "biligame.net",
+        "bilivideo.com",
+        "bilivideo.cn",
+        "hdslb.com",
+        "mincdn.com",
+        "biligo.com",
+        "szbdyd.com",
+        "kktv.com.tw",
+        "kktv.me",
+        "kk.stream",
+        "myvideo.net.tw",
+        "chocotv.com.tw",
+        "line-cdn.net",
+        "line-scdn.net",
+        "linetv.tw",
+        "litv.tv",
+        "LiTV.tv",
+        "4gtv.tv",
+        "ofiii.com",
+        "hinet.net",
+        "akamaized.net"
+      ]
+    }
+  ]
+}
