@@ -2,9 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
-        "7854128.xyz"
-      ],
       "domain_keyword": [
         "shenmi"
       ]
