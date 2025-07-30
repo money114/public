@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,dpdns.org
 DOMAIN-SUFFIX,vpstv.net
 DOMAIN-SUFFIX,iill.top
 DOMAIN-SUFFIX,mydiver.eu.org
-IP-CIDR,167.114.175.6/32,no-resolve
+
 
 # 海外
 DOMAIN-SUFFIX,happymh.com
