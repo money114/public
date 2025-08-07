@@ -22,7 +22,20 @@ DOMAIN-SUFFIX,iill.top
 DOMAIN-SUFFIX,mydiver.eu.org
 DOMAIN-SUFFIX,popcdn.day
 DOMAIN-SUFFIX,wideiptv.top
+
+# tv
 DOMAIN-SUFFIX,rou.video
+DOMAIN-SUFFIX,123av.com
+DOMAIN-SUFFIX,0o0.myfw.us
+DOMAIN-SUFFIX,yysb19.fun
+DOMAIN-SUFFIX,jibada5.xyz
+DOMAIN-SUFFIX,xojav.tv
+DOMAIN-SUFFIX,apilj.com
+DOMAIN-SUFFIX,shayuapi.com
+DOMAIN-SUFFIX,51cg.fun
+DOMAIN-KEYWORD,hongkongdollvideo
+DOMAIN-KEYWORD,missav
+DOMAIN-KEYWORD,duboku
 
 # 海外
 DOMAIN-SUFFIX,happymh.com
@@ -33,20 +46,9 @@ DOMAIN-SUFFIX,synocommunity.com
 DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,bitgamer.ch
 DOMAIN-SUFFIX,cdn.jsdelivr.net
-DOMAIN-SUFFIX,123av.com
-DOMAIN-SUFFIX,0o0.myfw.us
-DOMAIN-SUFFIX,yysb19.fun
-DOMAIN-SUFFIX,jibada5.xyz
-DOMAIN-SUFFIX,xojav.tv
-DOMAIN-SUFFIX,apilj.com
-DOMAIN-SUFFIX,shayuapi.com
-DOMAIN-SUFFIX,51cg.fun
 DOMAIN-SUFFIX,keeflys.com
 DOMAIN-SUFFIX,cshjc.net
 DOMAIN-KEYWORD,mypikpak
-DOMAIN-KEYWORD,duboku
-DOMAIN-KEYWORD,hongkongdollvideo
-DOMAIN-KEYWORD,missav
 IP-CIDR,88.212.7.11/32,no-resolve
 IP-CIDR,190.11.225.124/32,no-resolve
 IP-CIDR,54.177.49.60/32,no-resolve
