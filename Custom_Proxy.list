@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,bitgamer.ch
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,keeflys.com
 DOMAIN-SUFFIX,cshjc.net
+DOMAIN-SUFFIX,vercel.app
 DOMAIN-KEYWORD,mypikpak
 IP-CIDR,88.212.7.11/32,no-resolve
 IP-CIDR,190.11.225.124/32,no-resolve
