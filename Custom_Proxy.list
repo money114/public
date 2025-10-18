@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,epg.v1.mk
 DOMAIN-SUFFIX,epg.112114.xyz
 IP-CIDR,167.114.175.6/32,no-resolve
 IP-CIDR,66.90.99.154/32,no-resolve
+IP-CIDR,50.7.158.194/32,no-resolve
 
 # tv
 DOMAIN-SUFFIX,rou.video
