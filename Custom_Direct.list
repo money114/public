@@ -20,3 +20,7 @@ DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
+
+## GFW
+DOMAIN-SUFFIX,sntp.me
+DOMAIN-SUFFIX,266nets.com
