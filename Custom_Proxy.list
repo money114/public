@@ -62,6 +62,7 @@ DOMAIN-SUFFIX,cshjc.net
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,s.tgfcer.com
 DOMAIN-KEYWORD,mypikpak
+DOMAIN-KEYWORD,cloudfisher
 IP-CIDR,88.212.7.11/32,no-resolve
 IP-CIDR,190.11.225.124/32,no-resolve
 IP-CIDR,54.177.49.60/32,no-resolve
