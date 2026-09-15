@@ -1,5 +1,4 @@
 {
-  "version": 2,
   "rules": [
     {
       "domain_suffix": [
@@ -33,7 +32,12 @@
         "ofiii.com",
         "hinet.net",
         "akamaized.net",
-        "4gtv.korice.eu.org"
+        "4gtv.korice.eu.org",
+        "infini.money"
+      ],
+      "ip_cidr": [
+        "123.51.231.132/32",
+        "60.250.121.103/32"
       ]
     }
   ]
