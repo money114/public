@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "astro",
+        "wavve"
+      ],
+      "domain_suffix": [
+        "starhubgo.com"
+      ]
+    }
+  ]
+}
