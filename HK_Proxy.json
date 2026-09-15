@@ -1,5 +1,4 @@
 {
-  "version": 2,
   "rules": [
     {
       "domain_suffix": [
@@ -25,7 +24,6 @@
         "viu.tv",
         "viu.com",
         "viu.now.com",
-        "nowe.com",
         "gvt1.com",
         "gvt2.com",
         "gvt3.com",
