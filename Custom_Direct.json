@@ -1,0 +1,54 @@
+{
+  "rules": [
+    {
+      "comment": "盒子",
+      "domain_suffix": [
+        "lz-cdn18.com",
+        "bfbfvip.com",
+        "array2026.com",
+        "xn--yet24tmq1a.site"
+      ],
+      "domain_keyword": [
+        "ffzy-online",
+        "7854128"
+      ],
+      "ip_cidr": [
+        "216.180.235.67/32",
+        "216.180.231.243/32"
+      ]
+    },
+    {
+      "comment": "TPTV",
+      "domain_suffix": [
+        "mobaibox.com"
+      ],
+      "ip_cidr": [
+        "183.207.0.0/16"
+      ]
+    },
+    {
+      "comment": "YSP",
+      "domain_suffix": [
+        "cctv.cn",
+        "yangshipin.cn"
+      ]
+    },
+    {
+      "comment": "ITV",
+      "domain_suffix": [
+        "dnsany.com",
+        "cmvideo.cn",
+        "chinamobile.com"
+      ]
+    },
+    {
+      "comment": "GFW",
+      "domain_suffix": [
+        "sntp.me",
+        "266nets.com",
+        "qifei.app",
+        "erya.app"
+      ]
+    }
+  ]
+}
