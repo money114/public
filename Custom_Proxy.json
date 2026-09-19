@@ -27,6 +27,7 @@
         "946985.qzz.io",
         "epg.v1.mk",
         "epg.112114.xyz",
+        "stream-link.org",
         "rou.video",
         "123av.com",
         "0o0.myfw.us",
@@ -49,14 +50,23 @@
         "cdn.jsdelivr.net",
         "keeflys.com",
         "cshjc.net",
-        "vercel.app"
-      ],
+        "vercel.app",
+        "tgfcer.com"
+      ]
+    },
+    {
       "domain_keyword": [
-        "mypikpak",
-        "duboku",
+        "yang-1989",
         "hongkongdollvideo",
-        "missav"
-      ],
+        "missav",
+        "duboku",
+        "hanime1",
+        "07chigua",
+        "mypikpak",
+        "cloudfisher"
+      ]
+    },
+    {
       "ip_cidr": [
         "167.114.175.6/32",
         "66.90.99.154/32",
